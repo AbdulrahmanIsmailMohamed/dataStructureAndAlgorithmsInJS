@@ -9,7 +9,9 @@
 //     return fibonacci
 // }
 
-function fibonacciSequence(n) {
+
+
+// BIG-O = O(n)function fibonacciSequence(n) {
     let fib = [0, 1];
     for (let i = 2; i < n; i++) {
         fib[i] = fib[i - 1] + fib[i - 2]
@@ -20,5 +22,3 @@ function fibonacciSequence(n) {
 console.log(fibonacciSequence(2));
 console.log(fibonacciSequence(3));
 console.log(fibonacciSequence(7));
-
-// BIG-O = O(n)
