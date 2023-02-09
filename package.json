@@ -1,0 +1,11 @@
+{
+  "name": "datastructureandalgorithms",
+  "version": "1.0.0",
+  "description": "Data Structure And Algorithms In Javascript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abdulrahman Ismail",
+  "license": "MIT"
+}
